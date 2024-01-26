@@ -18,3 +18,6 @@ files, or do whatever you wish. You can run rebase interactively by adding the -
 you want to rewrite commits by telling the command which commit to rebase onto.
 
 Hugo CHEN
+Esteban DOMINGUEZ 
+Mohammed DRICI 
+Ibrahim CHAKCHOUK
