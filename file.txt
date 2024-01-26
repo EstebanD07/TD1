@@ -17,3 +17,4 @@ to another one. With the interactive rebase tool, you can then stop after each c
 files, or do whatever you wish. You can run rebase interactively by adding the -i option to git rebase. You must indicate how far back 
 you want to rewrite commits by telling the command which commit to rebase onto.
 
+Hugo CHEN
